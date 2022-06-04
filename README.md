@@ -1,5 +1,5 @@
 # m
-Open source PHP HTML CSS JAVASCRIPT Full Accounting Website With Stock Control **Full Support For Multi Branch.
+Open source PHP HTML CSS JAVASCRIPT MYSQL Full Accounting Website With Stock Control **Full Support For Multi Branch.
 Including Accounts, Stock, Payments, Receipts, Purchases Invoice, Sale Invoice, Loss And Profit And More.
 
 Import sql file to the mysql server and edit php/connection.php file to set username, password, and database name
